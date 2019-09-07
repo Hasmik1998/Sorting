@@ -1,0 +1,11 @@
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/bin/Debug/netcoreapp2.0/Sortings.deps.json
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/bin/Debug/netcoreapp2.0/Sortings.runtimeconfig.json
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/bin/Debug/netcoreapp2.0/Sortings.runtimeconfig.dev.json
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/bin/Debug/netcoreapp2.0/Sortings.dll
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/bin/Debug/netcoreapp2.0/Sortings.pdb
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/obj/Debug/netcoreapp2.0/Sortings.csprojAssemblyReference.cache
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/obj/Debug/netcoreapp2.0/Sortings.csproj.CoreCompileInputs.cache
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/obj/Debug/netcoreapp2.0/Sortings.AssemblyInfoInputs.cache
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/obj/Debug/netcoreapp2.0/Sortings.AssemblyInfo.cs
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/obj/Debug/netcoreapp2.0/Sortings.dll
+/Users/ashotpetrosyan/Desktop/InOne/Sortings/Sortings/obj/Debug/netcoreapp2.0/Sortings.pdb
